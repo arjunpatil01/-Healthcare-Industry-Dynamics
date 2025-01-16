@@ -1,6 +1,6 @@
 # -Healthcare-Industry-Dynamics
-![Image](https://github.com/user-attachments/assets/e0199032-1582-4ddd-9ba7-b26bdccd30dd)
-![Image](https://github.com/user-attachments/assets/eb5ea2df-be61-459b-9fb6-5afcd595dd18)
+![Image](https://github.com/user-attachments/assets/1eb2ff1a-be6d-4a9e-bf06-37601f545bb3)
+![Image](https://github.com/user-attachments/assets/ffe9931c-5786-43ba-a628-9fd9b1a08acb)
 ![Image](https://github.com/user-attachments/assets/55f55be9-087f-4f9a-9aa6-60cb0a10640e)
 ![Image](https://github.com/user-attachments/assets/31db470a-8728-4978-b1f5-f108922f1287)
 ![Image](https://github.com/user-attachments/assets/4673c8ab-d633-4295-ab9a-796121cab6dc)
